@@ -1,2 +1,2 @@
-h1 Первый репозиторий
-[По интенсиву от ХП](https://goodprogrammer.ru/)
+Первый репозиторий
+[по интенсиву от ХП](https://goodprogrammer.ru/)
